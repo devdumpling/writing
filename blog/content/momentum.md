@@ -1,10 +1,9 @@
-export const meta = {
-  title: "Momentum",
-  description:
-    "Many people try to fix things which are not, in fact, broken...",
-  date: "2023-03-18",
-  slug: "momentum",
-};
+---
+title: "Momentum"
+description: "Many people try to fix things which are not, in fact, broken..."
+date: "2023-03-18"
+slug: "momentum"
+---
 
 Last summer, I read Marianne Bellotti's "Kill It With Fire: Manage Aging Computer Systems (and Future Proof Modern Ones)." As the title suggests, the book is filled with hardened wisdom on how to deal with legacy systems.
 

@@ -1,10 +1,9 @@
-export const meta = {
-  title: "A Bartender's Perspective on Software",
-  description:
-    "The many similarities between professionally pouring drinks and writing code.",
-  date: "2022/11/3",
-  slug: "bartenders-perspective",
-};
+---
+title: "A Bartender's Perspective on Software"
+description: "The many similarities between professionally pouring drinks and writing code."
+date: "2022/11/3"
+slug: "bartenders-perspective"
+---
 
 My story into software is slightly unusual. Like most [zillennials](https://www.urbandictionary.com/define.php?term=Zillennial), I've been around computers my whole life, tinkering and whatnot, similarly for coding. But, despite always wanting to immerse myself in it, the industry itself alluded me.
 
