@@ -1,10 +1,9 @@
-export const meta = {
-  title: "Fire Emblem’s Pacing Problem",
-  description:
-    "Some of Fire Emblem: Three Houses key additions interrupt the flow of gameplay",
-  date: "2020/08/13",
-  slug: "fire-emblems-pacing-problem",
-};
+---
+title: "Fire Emblem’s Pacing Problem"
+description: "Some of Fire Emblem: Three Houses key additions interrupt the flow of gameplay"
+date: "2020/08/13"
+slug: "fire-emblems-pacing-problem"
+---
 
 ![](/blog/assets/img/1__ahqEb0Lk__yTF57GnINLZTA.png)
 
