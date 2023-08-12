@@ -5,7 +5,7 @@ date: "2020/08/13"
 slug: "fire-emblems-pacing-problem"
 ---
 
-<img src="./blog/assets/img/1__ahqEb0Lk__yTF57GnINLZTA.png" alt="" width="800" height="449">
+<img src="./blog/assets/img/1__ahqEb0Lk__yTF57GnINLZTA.png" alt="" width="800" height="449" />
 
 **Earlier this year I treated myself to an early birthday gift: the latest _Fire Emblem_. I was ecstatic. The reviews were excellent, and the _Fire Emblem_ series is among my favorites. But one thing had me nervous.**
 
