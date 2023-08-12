@@ -5,7 +5,7 @@ date: "2020/07/20"
 slug: "stop-trying-to-monetize-everything"
 ---
 
-![](/blog/assets/img/0__1JGMLtGJhjXuGmzw.jpg)
+![](./blog/assets/img/0__1JGMLtGJhjXuGmzw.jpg)
 
 Lately, I’ve been cooking a ton of “gourmet” dishes. I’m no professional chef, but that doesn’t stop me from practicing. I go all out on the ingredients, merging my fun budget with my food budget so I can afford the best. Farm fresh shallots, capers, imported olive oil, mushrooms with names I can’t pronounce. My plating is my painting. I leave long strokes with my sauces and flourish with my garnish. It’s as meditative as it is delicious.
 
