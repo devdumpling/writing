@@ -3,13 +3,14 @@ title: "What I Learned in 6000 Hours of Dota 2"
 description: "I’m basically still a beginner."
 date: "2020/06/12"
 slug: "what-i-learned-in-6000-hours-of-dota-2"
+imgAboveFold: "dota-2"
 ---
 
 I’m basically still a beginner.
 
 S**ince 2013, I’ve spent close to 6,000 hours (250 days) playing Dota 2, hereafter referred to as just Dota. Like most addictions, it’s been filled with highs and lows.** Over the years, it has made and ruined friend/relationships, cost sleep and money, caused and relieved stress, been a crutch in times of hopelessness, and taught me humility, dedication, teamwork, anger management, and more. I’ve quit the game many times and returned just as many.
 
-![](/blog/assets/img/1__JSjRot1BK0t8msD5__e6ZZQ.png)
+![dota-2](/blog/assets/img/1__JSjRot1BK0t8msD5__e6ZZQ.png)
 
 In this article I answer the elusive questions:  
 **a.)** why play 6000 hours of any game, let alone one as frustrating as Dota?  

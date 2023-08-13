@@ -3,6 +3,7 @@ title: 'A Letter To My Past Vegan Self'
 description: 'Dear Me,'
 date: '2020/05/26'
 slug: 'a-letter-to-my-past-vegan-self'
+imgAboveFold: 'coffee-table'
 ---
 
 An Account of My 11.5 Year Journey Addressed to a Younger Me
@@ -21,7 +22,7 @@ Well, that’s what I’m writing you about. It’s been a journey, and while th
 
 Luckily, you have future me (you) to bridge the gap.
 
-![](/blog/assets/img/0__49yurznO0c5F1Ym1.jpg)
+![coffee-table](/blog/assets/img/0__49yurznO0c5F1Ym1.jpg)
 
 ### The Very Beginning
 

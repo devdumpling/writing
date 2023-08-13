@@ -3,8 +3,10 @@ title: Remembering MapleStory
 description: Returning to an MMO from 2007
 date: 2020/06/30
 slug: remembering-maplestory
+imgAboveFold: maplestory
 ---
-![](/blog/assets/img/1__C3h6MChdwsrNCqlFES9Hjw.png)
+
+![maplestory](/blog/assets/img/1__C3h6MChdwsrNCqlFES9Hjw.png)
 
 #### RETROSPECTIVE
 

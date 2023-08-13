@@ -3,9 +3,10 @@ title: "The Legend of Chrono Cross"
 description: "Reflecting on Square Enix’s classic JRPG sequel"
 date: "2020/07/19"
 slug: "the-legend-of-chrono-cross"
+imgAboveFold: "chrono-cross"
 ---
 
-![](/blog/assets/img/1__0HDyMyOzx__jLGlZmH__LaKw.png)
+![chrono-cross](/blog/assets/img/1__0HDyMyOzx__jLGlZmH__LaKw.png)
 
 #### RETROSPECTIVE
 

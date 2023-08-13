@@ -3,9 +3,10 @@ title: "Fire Emblem’s Pacing Problem"
 description: "Some of Fire Emblem: Three Houses key additions interrupt the flow of gameplay"
 date: "2020/08/13"
 slug: "fire-emblems-pacing-problem"
+imgAboveFold: "fire-emblem-clash"
 ---
 
-![fire emblem clash](/blog/assets/img/1__ahqEb0Lk__yTF57GnINLZTA.png)
+![fire-emblem-clash](/blog/assets/img/1__ahqEb0Lk__yTF57GnINLZTA.png)
 
 **Earlier this year I treated myself to an early birthday gift: the latest _Fire Emblem_. I was ecstatic. The reviews were excellent, and the _Fire Emblem_ series is among my favorites. But one thing had me nervous.**
 
